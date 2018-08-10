@@ -1,0 +1,12 @@
+body{
+  background-color: thistle;
+}
+
+h1{
+  color: slateblue;
+  text-align: center;
+}
+p{
+  color: sienna;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
